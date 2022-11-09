@@ -1,6 +1,6 @@
 <?php
 <h1>hola mundo</h1>
-$nombre = $_POST['nombre'];
+$nombre = $_put['nombre'];
 
 echo "hola $nombre";
 
